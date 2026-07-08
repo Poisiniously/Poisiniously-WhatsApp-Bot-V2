@@ -29,7 +29,7 @@ const handleMessage = async (sock, msg) => {
                         '';
 
     // Define your bot prefix (e.g., ! or /)
-    const prefix = '!';
+    const prefix = '§';
     if (!messageText.startsWith(prefix)) return;
 
     // Split text into command and arguments

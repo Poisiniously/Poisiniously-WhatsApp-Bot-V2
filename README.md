@@ -1,9 +1,9 @@
-# Poisiniously-WhatsApp-Bot-V2 
+# Poisiniously-WhatsApp-Bot-V2 💜
 Read the wiki to understand how it works. 
 
 Made by me, <img src="./profile.png" width="2%"> [Poisiniously](https://github.com/Poisiniously) and [AI](https://gemini.google.com) in teamwork, **not** only AI. 
 
-## Quickstart
+## 🚀 Quickstart
 You can't skip the [wiki](https://github.com/Poisiniously/Poisiniously-WhatsApp-Bot-V2/wiki/Getting-started)!
 
 Or just do this:
